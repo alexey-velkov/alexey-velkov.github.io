@@ -1,6 +1,6 @@
 {
-  "name": "new-project-app",
-  "homepage": "https://github.com/alexey-velkov/new-project-app.git",
+  "name": "alexey-velkov.github.io",
+  "homepage": "https://github.com/alexey-velkov/alexey-velkov.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
